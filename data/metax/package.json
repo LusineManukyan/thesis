@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "mime-types": "^2.1.35",
+    "node-fetch": "^3.3.2",
+    "ws": "^8.17.0"
+  }
+}

@@ -1,0 +1,5 @@
+{
+    "name": "examples/home.ifc",
+    "schema": "IFC4",
+    "description": "FILE_DESCRIPTION(('ViewDefinition [TrimBim]', 'ExchangeRequirement [Any]'),'2;1');FILE_NAME('home.ifc','2024-05-11T10:43:38',('yegre'),('Trimble'),'Trimble SketchUp','Trimble SketchUp','IFC4 model');FILE_SCHEMA(('IFC4'));"
+}
